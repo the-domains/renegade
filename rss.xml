@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Renegade]]></title>
+        <description><![CDATA[Renegade]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 09:44:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WE ARE HANDSOME]]></title>
+            <description><![CDATA[<article><h1>WE ARE HANDSOME</h1><h2>RENEGADE SWIM//2016</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d79d19f334479365cbc54e811f7251df60a1abd4.jpg"></article>]]></description>
+            <link>undefinedwe-are-handsome/index.html</link>
+            <guid isPermaLink="false">6dc393ec-275b-4932-b682-5f45f5f78e61</guid>
+            <pubDate>Mon, 15 Feb 2016 09:44:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
